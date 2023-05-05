@@ -13,6 +13,11 @@ y: sheet3
 ## Splitting DataSet
 Splitting the X, y such that the test_size of 20% and random_state=1 into X_train, X_test, y_train, y_test
 
+## Feature Scaling 
+Feature scaling performs for better accuracy of the model 
+<br>
+Used Standard Scaler
+
 ## Train the Model
 Create a linear model for predicting dependent variable y from X.
 <br>
